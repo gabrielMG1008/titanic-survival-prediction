@@ -1,4 +1,3 @@
-# titanic-survival-prediction
 # Titanic - Machine Learning from Disaster
 
 ## About the Project
