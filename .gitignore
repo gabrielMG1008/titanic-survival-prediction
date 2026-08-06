@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+DATA/processed/
+artifacts/
+resultados.csv
+ML.ipynb
